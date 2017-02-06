@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+	background: #cfc089;
+	color: #9c2a2a;
+}
+
+header img {
+	width: 350;
+	height: 200px;
+}
+
+header h1 {
+	font-family: "Acme Logo", "Sans serif";
+}
+
+nav ul {
+	background-color: #AE2225;
+	margin: 0;
+	padding: 1em 1em 1em 1em;
+}
+
+nav ul li {
+	display: inline;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #F0BFA4;
+	font-family: "Montserrat Regular"
+	font-size: 10px;
+}
