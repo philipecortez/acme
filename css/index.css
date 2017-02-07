@@ -71,7 +71,7 @@ nav ul li a {
 
 .about {
 	margin-top: 2em;
-	padding: 7em;
+	padding: 7em 7em 2em 7em;
 	background-color: #cfc089;
 }
 
@@ -95,4 +95,16 @@ nav ul li a {
 
 .about article p a{
 	color: #9c2a2a;
+}
+
+.about hr{
+	margin-top: 5em;
+	border-color: #29160E
+}
+
+footer {
+	color: #29160E;
+	background-color: #cfc089;
+	text-align: center;
+	padding: 2em;
 }
